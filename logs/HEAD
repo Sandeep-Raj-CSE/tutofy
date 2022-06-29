@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 1cf16dc25729433a477fdbe0dd1d89e08b8c77ae satvik <satvikjainjpr@gmail.com> 1649692061 +0530	commit (initial): initial commit
+1cf16dc25729433a477fdbe0dd1d89e08b8c77ae bd2bca03f481acbadb6e17bac1fd6849743d84a0 satvik <satvikjainjpr@gmail.com> 1649694017 +0530	pull origin master: Fast-forward
+bd2bca03f481acbadb6e17bac1fd6849743d84a0 9ef04bbf136015a9fe56ac872dd6a1e4c1034f7d satvik <satvikjainjpr@gmail.com> 1649706833 +0530	commit: new
+9ef04bbf136015a9fe56ac872dd6a1e4c1034f7d b918cd9026e127bc3d7187b5dcdab5b870347774 satvik <satvikjainjpr@gmail.com> 1649735555 +0530	pull origin master: Merge made by the 'recursive' strategy.
+b918cd9026e127bc3d7187b5dcdab5b870347774 0bfe3d042fdb07a7a8d23da5fa44fd0dccfcf1fa satvik <satvikjainjpr@gmail.com> 1649737521 +0530	commit: Frontend
+0bfe3d042fdb07a7a8d23da5fa44fd0dccfcf1fa 95e7724f9fddd63f7aeb70acb92f59e871428de2 satvik <satvikjainjpr@gmail.com> 1649761463 +0530	commit: changes
+95e7724f9fddd63f7aeb70acb92f59e871428de2 d070e1526b24feceb8428e3649f88d27920fb043 satvik <satvikjainjpr@gmail.com> 1649761874 +0530	commit (merge): new
+d070e1526b24feceb8428e3649f88d27920fb043 5bf314201f52be245ec8c407119ad2e28529246d satvik <satvikjainjpr@gmail.com> 1649761954 +0530	pull origin master: Merge made by the 'recursive' strategy.
+5bf314201f52be245ec8c407119ad2e28529246d 5bf314201f52be245ec8c407119ad2e28529246d satvik <satvikjainjpr@gmail.com> 1649763040 +0530	checkout: moving from master to satvik
+5bf314201f52be245ec8c407119ad2e28529246d a7ae8c4eda5588861214d5bce9e68b9b19a4abfb satvik <satvikjainjpr@gmail.com> 1649770213 +0530	commit: backend
+a7ae8c4eda5588861214d5bce9e68b9b19a4abfb f4eb61df14a646c35afa688002d98931334f6ffe satvik <satvikjainjpr@gmail.com> 1649782476 +0530	commit: backend
+f4eb61df14a646c35afa688002d98931334f6ffe dc17bf6b09289139b24d0986e3295560e6cfb4b1 satvik <satvikjainjpr@gmail.com> 1649801071 +0530	commit: final backend
+dc17bf6b09289139b24d0986e3295560e6cfb4b1 5bf314201f52be245ec8c407119ad2e28529246d satvik <satvikjainjpr@gmail.com> 1649801080 +0530	checkout: moving from satvik to master
+5bf314201f52be245ec8c407119ad2e28529246d dc17bf6b09289139b24d0986e3295560e6cfb4b1 satvik <satvikjainjpr@gmail.com> 1649801213 +0530	checkout: moving from master to satvik
+dc17bf6b09289139b24d0986e3295560e6cfb4b1 3140efed0751f08d8e329f655269d5d55497b7c3 satvik <satvikjainjpr@gmail.com> 1649830103 +0530	commit: final
+3140efed0751f08d8e329f655269d5d55497b7c3 2fad06f4086e42dd9332040cadc8f0167ebf629a satvik <satvikjainjpr@gmail.com> 1650547553 +0530	commit: changes
+2fad06f4086e42dd9332040cadc8f0167ebf629a 5bf314201f52be245ec8c407119ad2e28529246d satvik <satvikjainjpr@gmail.com> 1650547587 +0530	checkout: moving from satvik to master
+5bf314201f52be245ec8c407119ad2e28529246d 2fad06f4086e42dd9332040cadc8f0167ebf629a satvik <satvikjainjpr@gmail.com> 1650547599 +0530	checkout: moving from master to satvik
+2fad06f4086e42dd9332040cadc8f0167ebf629a ba71c4225f11e17c23223a63aed3d29b3df74b41 satvik <satvikjainjpr@gmail.com> 1650960981 +0530	commit: final review
+ba71c4225f11e17c23223a63aed3d29b3df74b41 62f9f5bef64a40b3516fbd426d14893df7817855 satvik <satvikjainjpr@gmail.com> 1650977724 +0530	commit: final review
