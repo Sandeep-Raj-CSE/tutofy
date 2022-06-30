@@ -1,2 +1,4 @@
-# h4cdemo
-this is a demo website for Hack4Cause Event to be conducted on 5th-7th of March
+# Tutofy
+This is website in which the one-stop solution for student. 
+Where we provide the valuable content one place in order wise.
+Seach the course on the basis of Teacher name , subject name , rating
